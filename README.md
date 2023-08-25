@@ -18,14 +18,14 @@
 You will need tesseract with indonesian language support installed in your system. 
 
 ```console
-$ brew install tesseract-lang
+$ pip install tesseract-lang
 ```
 ---
 
 <h2 style="font-weight: 800;">🚀 How to launch</h2>
 
 ```console
-$ git clone https://github.com/YukaLangbuana/KTP-OCR.git
+$ git clone https://github.com/MRendiks/KTP-OCR.git
 $ cd KTP-OCR
 $ pip install -r requirements.txt
 $ python3 ocr.py <path-image>
