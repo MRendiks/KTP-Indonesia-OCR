@@ -25,7 +25,7 @@ $ pip install tesseract-lang
 <h2 style="font-weight: 800;">🚀 How to launch</h2>
 
 ```console
-$ git clone https://github.com/MRendiks/KTP-OCR.git
+$ git clone https://github.com/MRendiks/KTP-Indoensia-OCR.git
 $ cd KTP-OCR
 $ pip install -r requirements.txt
 $ python3 ocr.py <path-image>
